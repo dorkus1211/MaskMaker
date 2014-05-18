@@ -14,7 +14,7 @@ Textureを選択し、一括でMask画像を生成できます
 
 ・Assetsフォルダ内にMaskMaker.csを追加すると使えます。
 ・生成されるパスは元画像と同じ階層です。<br>
-・Mask画像のファイル名は元画像の「.png」を「_mask.asset」に置き換えた名前になります。
+・Mask画像のファイル名は元画像の「.png」を「_mask.asset」に置き換えた名前になります。<br>
 ・元画像と、マスク画像は自動的にプラットフォーム(Android,iPhoneのみ)に対応した圧縮形式に変換されます。<br>
   Android -> ETC_RGB4<br>
   iPhone -> PVRTC_RGB4<br>
